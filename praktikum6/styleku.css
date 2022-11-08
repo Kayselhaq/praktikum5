@@ -1,0 +1,78 @@
+body{
+    background-color:skyblue;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+#header{
+    background-color: rebeccapurple;
+}
+
+blockquote{
+    text-align: center;
+    color: aqua;
+}
+
+.link{
+    text-align: center;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.gambar img{
+    width: 23%;
+}
+
+.jawa{
+    font-weight:bold;
+    font-size: 80px;
+}
+
+.koleksi{
+    text-align: center;
+}
+
+.koleksi img{
+    width: 22%;
+}
+
+#profil h3{
+    text-align: center;
+}
+
+#beternak h3{
+    text-align: center;
+}
+
+.promo{
+    margin: auto;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.promo h3{
+    background-color: cornsilk;
+    border: 1px;
+    text-align: center;
+    font-weight: bold;
+    color: indigo;
+}
+
+.promo h2{
+    text-align: center;
+}
+
+.link {
+    text-align: center;
+    color: greenyellow;
+}
+
+.promo h4{
+    text-align: center;
+}
